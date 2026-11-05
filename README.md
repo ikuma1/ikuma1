@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Llyn</h1>
-<h3 align="center">A passionate studen</h3>
+<h1 align="center">Hi 👋, I'm Mau</h1>
+<h3 align="center">A passionate student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/llyn_." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="llyn_." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
